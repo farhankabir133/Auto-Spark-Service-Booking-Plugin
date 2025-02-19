@@ -1,11 +1,10 @@
 <?php
 /**
  * Plugin Name: Auto Spark Service Booking
- * Plugin URI: https://example.com
  * Description: A simple booking system for car servicing appointments.
  * Version: 1.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author: Farhan Kanir
+ * Author URI: https://autosparkbd.com
  * License: GPL2
  */
 
